@@ -1,0 +1,27 @@
+{
+	"name": "sandstorm",
+	"displayName": "Sandstorm Color Theme",
+	"description": "Dark, Red Based, Color Theme",
+	"version": "0.1.0",
+	"publisher": "devan sisson",
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"red"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "sandstorm",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sandstorm-color-theme.json"
+			}
+		]
+	}
+}
