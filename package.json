@@ -4,6 +4,10 @@
 	"description": "Dark, Red Based, Color Theme",
 	"version": "0.1.0",
 	"publisher": "devan sisson",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bardleware/sandstorm-theme"
+	},
 	"engines": {
 		"vscode": "^1.10.0"
 	},
@@ -12,6 +16,7 @@
 	],
 	"keywords": [
 		"theme",
+		"night-time",
 		"dark",
 		"red"
 	],
