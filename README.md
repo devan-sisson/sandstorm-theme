@@ -8,10 +8,10 @@ I am open to tweaks and adjustments to make the theme better.
 ## Screenshots
 
 ### *HTML syntax highlight*
-![HTML syntax highlight]( ./Screenshots/html_example.PNG )
+![HTML syntax highlight](Screenshots/html_example.PNG)
 ### *CSS syntax highlight*
-![CSS syntax highlight]( ./Screenshots/css_example.PNG )
+![CSS syntax highlight](Screenshots/css_example.PNG)
 ### *JS syntax highlight*
-![JavaScript syntax highlight]( ./Screenshots/js_example.PNG )
+![JavaScript syntax highlight](Screenshots/js_example.PNG)
 ### *C syntax highlight*
-![C syntax highlight]( ./Screenshots/c_example.PNG )
+![C syntax highlight](Screenshots/c_example.PNG)

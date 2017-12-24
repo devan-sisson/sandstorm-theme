@@ -1,32 +1,32 @@
 {
-	"name": "sandstorm",
-	"displayName": "Sandstorm Color Theme",
-	"description": "Dark, Red Based, Color Theme",
-	"version": "0.1.0",
-	"publisher": "devan sisson",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/bardleware/sandstorm-theme"
-	},
-	"engines": {
-		"vscode": "^1.10.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"theme",
-		"night-time",
-		"dark",
-		"red"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "sandstorm",
-				"uiTheme": "vs-dark",
-				"path": "./themes/sandstorm-color-theme.json"
-			}
-		]
-	}
+    "name": "sandstorm",
+    "displayName": "Sandstorm Color Theme",
+    "description": "Dark, Red Based, Color Theme",
+    "version": "0.1.0",
+    "publisher": "Bardleware",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bardleware/sandstorm-theme"
+    },
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "night-time",
+        "dark",
+        "red"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "sandstorm",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sandstorm-color-theme.json"
+            }
+        ]
+    }
 }
