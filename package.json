@@ -2,7 +2,7 @@
     "name": "sandstorm",
     "displayName": "Sandstorm Color Theme",
     "description": "Dark, Red Based, Color Theme",
-    "version": "0.3.0",
+    "version": "0.5.0",
     "publisher": "Bardleware",
     "repository": {
         "type": "git",
@@ -20,7 +20,7 @@
         "dark",
         "red"
     ],
-    "icon": "./icon/icon.png",
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
