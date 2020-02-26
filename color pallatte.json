@@ -343,7 +343,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#D59DF6"
+        "foreground": "#c6538c"
       }
     },
     {

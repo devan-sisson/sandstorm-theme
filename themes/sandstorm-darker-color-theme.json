@@ -1,0 +1,184 @@
+{
+  "colors": {
+    "editor.background": "#310000",
+    "editor.foreground": "#ff9933",
+    "editor.lineHighlightBackground": "#090809",
+    "editorCursor.foreground": "#b10000",
+    "editorWhitespace.foreground": "#700000",
+    "editorIndentGuide.background": "#802f00",
+    "activityBar.background": "#630000",
+    "activityBar.foreground": "#ff9933",
+    "sideBar.background": "#4d0000",
+    "tab.activeBackground": "#310000",
+    "tab.inactiveBackground": "#5a0000",
+    "panel.background": "#2b0000",
+    "editorGroupHeader.tabsBackground": "#5a0000",
+    "list.activeSelectionBackground": "#5a0000",
+    "list.activeSelectionForeground": "#ff9933",
+    "list.hoverBackground": "#ca002c",
+    "list.inactiveSelectionBackground": "#5a0000",
+    "list.focusBackground": "#700000",
+    "sideBarSectionHeader.background": "#310000",
+    "activityBarBadge.background": "#ffdd87",
+    "activityBarBadge.foreground": "#232935",
+    "foreground": "#ffbf80",
+    "editorLineNumber.foreground": "#b10000",
+    "titleBar.activeBackground": "#700000",
+    "titleBar.inactiveBackground": "#310000",
+    "input.background": "#310000",
+    "input.foreground": "#ff0000",
+    "editorWidget.background": "#310000",
+    "editorSuggestWidget.background": "#310000",
+    "sideBarTitle.foreground": "#f44747",
+    "editor.wordHighlightBackground": "#141820",
+    "editor.selectionBackground": "#1d232f",
+    "pickerGroup.foreground": "#F3B61F",
+    "statusBar.background": "#700000"
+  },
+  "tokenColors": [
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#ad4159"
+      }
+    },
+    {
+      "name": "Constant",
+      "scope": "constant",
+      "settings": {
+        "foreground": "#2d862d"
+      }
+    },
+    {
+      "name": "Block",
+      "scope": "meta.block",
+      "settings": {
+        "foreground": "#b10000"
+      }
+    },
+    {
+      "name": "Entity",
+      "scope": "entity",
+      "settings": {
+        "foreground": "#009999"
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": "invalid",
+      "settings": {
+        "background": "#F74545",
+        "foreground": "#4d0000"
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#cc0066"
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": "keyword.control",
+      "settings": {
+        "foreground": "#cc0066",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "#ad4159"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": "storage",
+      "settings": {
+        "foreground": "#2d862d",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "String",
+      "scope": "string",
+      "settings": {
+        "foreground": "#29a329",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Support",
+      "scope": "support",
+      "settings": {
+        "foreground": "#9e00c5"
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": "variable",
+      "settings": {
+        "foreground": "#e07000"
+      }
+    },
+    {
+      "name": "Markup Heading",
+      "scope": "markup.heading",
+      "settings": {
+        "foreground": "#ebadad"
+      }
+    },
+    {
+      "name": "Markup Deleted",
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#F74545"
+      }
+    },
+    {
+      "name": "Markup Inserted",
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#EF2D56"
+      }
+    },
+    {
+      "name": "Markup Changed",
+      "scope": "markup.changed",
+      "settings": {
+        "foreground": "#994d00"
+      }
+    },
+    {
+      "name": "Markup Underline",
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "Markup Underline Link",
+      "scope": "markup.underline.link",
+      "settings": {
+        "foreground": "#49ace9"
+      }
+    },
+    {
+      "name": "Markup List",
+      "scope": "markup.list",
+      "settings": {
+        "foreground": "#ff9933"
+      }
+    },
+    {
+      "name": "Markup Raw",
+      "scope": "markup.raw",
+      "settings": {
+        "foreground": "#2d862d"
+      }
+    }
+  ]
+}
